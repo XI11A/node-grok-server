@@ -1,0 +1,7 @@
+{
+	"name": "Node Grok Server",
+	"description": "Node Grok Server",
+	"repository": "https://github.com/xi11a/node-grok-server",
+	"keywords": ["ngrok-clone"],
+	"stack": "container"
+}
